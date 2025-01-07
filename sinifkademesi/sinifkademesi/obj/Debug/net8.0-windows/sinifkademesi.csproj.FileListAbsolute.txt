@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\bin\Debug\net8.0-windows\sinifkademesi.exe
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\bin\Debug\net8.0-windows\sinifkademesi.deps.json
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\bin\Debug\net8.0-windows\sinifkademesi.runtimeconfig.json
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\bin\Debug\net8.0-windows\sinifkademesi.dll
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\bin\Debug\net8.0-windows\sinifkademesi.pdb
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.Form1.resources
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.AssemblyInfo.cs
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.dll
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\refint\sinifkademesi.dll
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.pdb
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\sinifkademesi.genruntimeconfig.cache
+C:\Users\windows10\Desktop\sınava_calısma\sinifkademesi\sinifkademesi\obj\Debug\net8.0-windows\ref\sinifkademesi.dll
