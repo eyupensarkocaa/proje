@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\bin\Debug\net8.0-windows\swichcaseornegi.exe
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\bin\Debug\net8.0-windows\swichcaseornegi.deps.json
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\bin\Debug\net8.0-windows\swichcaseornegi.runtimeconfig.json
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\bin\Debug\net8.0-windows\swichcaseornegi.dll
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\bin\Debug\net8.0-windows\swichcaseornegi.pdb
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.Form1.resources
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.AssemblyInfo.cs
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.dll
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\refint\swichcaseornegi.dll
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.pdb
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\swichcaseornegi.genruntimeconfig.cache
+C:\Users\windows10\Desktop\sınava_calısma\swichcaseornegi\swichcaseornegi\obj\Debug\net8.0-windows\ref\swichcaseornegi.dll
