@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.Form1.resources
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\bin\Debug\net8.0-windows\nothesabı.exe
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\bin\Debug\net8.0-windows\nothesabı.deps.json
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\bin\Debug\net8.0-windows\nothesabı.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\bin\Debug\net8.0-windows\nothesabı.dll
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\bin\Debug\net8.0-windows\nothesabı.pdb
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.dll
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\refint\nothesabı.dll
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.pdb
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\nothesabı.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\nothesabı\nothesabı\obj\Debug\net8.0-windows\ref\nothesabı.dll
