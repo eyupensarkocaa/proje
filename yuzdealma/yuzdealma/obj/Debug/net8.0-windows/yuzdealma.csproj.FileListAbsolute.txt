@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\bin\Debug\net8.0-windows\yuzdealma.exe
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\bin\Debug\net8.0-windows\yuzdealma.deps.json
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\bin\Debug\net8.0-windows\yuzdealma.runtimeconfig.json
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\bin\Debug\net8.0-windows\yuzdealma.dll
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\bin\Debug\net8.0-windows\yuzdealma.pdb
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.Form1.resources
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.AssemblyInfo.cs
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.dll
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\refint\yuzdealma.dll
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.pdb
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\yuzdealma.genruntimeconfig.cache
+C:\Users\windows10\Desktop\sınava_calısma\yuzdealma\yuzdealma\obj\Debug\net8.0-windows\ref\yuzdealma.dll
