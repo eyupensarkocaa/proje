@@ -1,0 +1,16 @@
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\bin\Debug\net8.0-windows\ehliyetalma.exe
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\bin\Debug\net8.0-windows\ehliyetalma.deps.json
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\bin\Debug\net8.0-windows\ehliyetalma.runtimeconfig.json
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\bin\Debug\net8.0-windows\ehliyetalma.dll
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\bin\Debug\net8.0-windows\ehliyetalma.pdb
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.Form1.resources
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.csproj.GenerateResource.cache
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.AssemblyInfoInputs.cache
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.AssemblyInfo.cs
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.csproj.CoreCompileInputs.cache
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.dll
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\refint\ehliyetalma.dll
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.pdb
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ehliyetalma.genruntimeconfig.cache
+C:\Users\windows10\Desktop\NTP proje\ehliyetalma\ehliyetalma\obj\Debug\net8.0-windows\ref\ehliyetalma.dll
